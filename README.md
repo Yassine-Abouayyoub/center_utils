@@ -69,6 +69,6 @@ gcc main.c center_utils/center_utils.c -o demo.exe
 
 - Windows OS
 - GCC (MinGW) or compatible compiler
---
+
 
 **Tip:** Always verify your actual line widths for perfect centering, especially with special or Unicode characters!
